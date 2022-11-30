@@ -21,8 +21,8 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://jigs1612.github.io/News_Blogom)
-- Live Site URL: [Add live site URL here](https://jigs1612.github.io/News_Blog)
+- Solution URL: [https://jigs1612.github.io/News_Blogom]
+- Live Site URL: [https://jigs1612.github.io/News_Blog]
 
 ## My process
 
